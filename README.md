@@ -1,5 +1,5 @@
 ### Hello 👋🏽, I'm [Reyhan!](https://github.com/reyhanhaqiqi)
-<a href="https://t.me/ReyhanHaqiqi">
+<a href="https://t.me/ReyhanHQQ">
   <img align="left" alt="Reyhan's Telegram" width="22px" src="https://simpleicons.vercel.app/telegram/329ed8" />
 </a>
 <a href="https://www.instagram.com/_reyhanhaqiqi__">
