@@ -2,7 +2,7 @@
 <a href="https://t.me/ReyhanHQQ">
   <img align="left" alt="Reyhan's Telegram" width="22px" src="https://simpleicons.vercel.app/telegram/329ed8" />
 </a>
-<a href="https://www.instagram.com/_reyhanhaqiqi__">
+<a href="https://www.instagram.com/_reyhanhaqiqi___/">
   <img align="left" alt="Reyhan's instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
 </a>
 <a href="https://www.facebook.com/reyhanhaqiqi.reyhanhaqiqi">
