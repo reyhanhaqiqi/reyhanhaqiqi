@@ -9,7 +9,7 @@
   <img align="left" alt="Reyhan's Facebook" width="22px" src="https://simpleicons.vercel.app/facebook/1685e6" />
 </a>
 <a href="https://www.linkedin.com/in/reyhan-haqiqi-a-f-a226b0248/">
-  <img align="left" alt="Reyhan's LinkedIn" width="22px" src="[https://simpleicons.vercel.app/facebook/1685e6](https://simpleicons.vercel.app/linkedin/2362aa)" />
+  <img align="left" alt="Reyhan's LinkedIn" width="22px" src="https://simpleicons.vercel.app/linkedin/2362aa" />
 </a>
 
 <br />
