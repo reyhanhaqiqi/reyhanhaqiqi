@@ -45,5 +45,5 @@ Hi :octocat:, my name is Reyhan Haqiqi Alif Fourniawan, I'm a Beginner Web Devel
 
 
 
-![Reyhan Haqiqi Alif Fourniawan's github stats](https://github-readme-stats.vercel.app/api?username=reyhanhaqiqi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanhaqiqi&layout=compact&hide_border=true)
