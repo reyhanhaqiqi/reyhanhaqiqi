@@ -45,5 +45,3 @@ Hi :octocat:, my name is Reyhan Haqiqi Alif Fourniawan, I'm a Beginner Web Devel
 
 
 
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanhaqiqi&layout=compact&hide_border=true)
