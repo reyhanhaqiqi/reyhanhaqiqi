@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://reyhanhaqiqi.my.id/" target="_blank" rel="noreferrer"><img src="https://github.com/reyhanhaqiqi/reyhanhaqiqi/blob/main/Banner%20-%201x3%20M.png" alt="my banner"></a>
+  <a href="https://reyhanhaqiqi.my.id/" target="_blank" rel="noreferrer"><img src="https://github.com/reyhanhaqiqi/reyhanhaqiqi/blob/main/mybanner.png" alt="my banner"></a>
 </p>
 
 ### Hello 👋🏽, I'm [Reyhan!](https://github.com/reyhanhaqiqi)
