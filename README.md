@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+</p>
+
+<br />
+
 ### Hello 👋🏽, I'm [Reyhan!](https://github.com/reyhanhaqiqi)
 <a href="https://t.me/ReyhanHQQ">
   <img align="left" alt="Reyhan's Telegram" width="22px" src="https://simpleicons.vercel.app/telegram/329ed8" />
