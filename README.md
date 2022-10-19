@@ -72,5 +72,7 @@ Hi :octocat:, my name is Reyhan Haqiqi Alif Fourniawan, I'm a Beginner Web Devel
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+<br />
 
+**Most Languages Used:**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanhaqiqi&layout=compact&hide_border=true&theme=tokyonight)
