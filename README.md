@@ -17,6 +17,8 @@
 
 Hi :octocat:, my name is Reyhan Haqiqi Alif Fourniawan, I'm a Beginner Web Developer and Network Enginer from Indonesia 🇮🇩, I'm currently trying to become a Professional React Developer and maybe a Back-end Developer, with a growing love for languages. Apart from programming, I enjoy Action Games, Photography and Videography.
 
+<br />
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
@@ -24,6 +26,8 @@ Hi :octocat:, my name is Reyhan Haqiqi Alif Fourniawan, I'm a Beginner Web Devel
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: saifunaris@gmail.com;
+
+<br />
 
 **Skills and Languages Tools:**
 
@@ -49,10 +53,12 @@ Hi :octocat:, my name is Reyhan Haqiqi Alif Fourniawan, I'm a Beginner Web Devel
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
+
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
