@@ -25,7 +25,7 @@ Hi :octocat:, my name is Reyhan Haqiqi Alif Fourniawan, I'm a Beginner Web Devel
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: saifunaris@gmail.com;
 
-**Languages and Tools:**
+**Skills and Languages Tools:**
 
 <kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></kbd>
 <kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></kbd>
@@ -43,7 +43,6 @@ Hi :octocat:, my name is Reyhan Haqiqi Alif Fourniawan, I'm a Beginner Web Devel
 <kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></kbd>
 <kbd><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></kbd>
 
-## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
