@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi :octocat:, my name is Reyhan Haqiqi Alif Fourniawan, I'm a Beginner Web Developer and Network Enginer from Indonesia 🇮🇩, I'm currently trying to become a Professional React Developer and maybe a Back-end Developer, with a growing love for languages. Apart from programming, I enjoy Action Games, Photography and Videography.
+Hi :octocat:, my name is Reyhan Haqiqi Alif Fourniawan, I'm a Beginner Full Stack Developer and Network Enginer from Indonesia 🇮🇩, I'm currently trying to become a Professional Flutter Developer and maybe a Back-end Developer, with a growing love for languages. Apart from programming, I enjoy Action Games, Photography and Videography.
 
 <br />
 
