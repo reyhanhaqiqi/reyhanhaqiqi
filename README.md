@@ -13,7 +13,7 @@
   <img align="left" alt="Reyhan's Facebook" width="22px" src="https://simpleicons.vercel.app/facebook/1685e6" />
 </a>
 <a href="https://www.linkedin.com/in/reyhan-haqiqi-a-f-a226b0248/">
-  <img align="left" alt="Reyhan's LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" />
+  <img align="left" alt="Reyhan's LinkedIn" width="22px" src="https://camo.githubusercontent.com/a65f527a5788de0dec5f1b2be0858392a3652ec2d766c73eb614c98183d245fb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" />
 </a>
 
 <br />
